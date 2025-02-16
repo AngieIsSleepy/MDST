@@ -1,0 +1,20 @@
+[
+    {
+    "endTime" : "2023-10-11 23:04",
+    "artistName" : "Britney Spears",
+    "trackName" : "Toxic",
+    "msPlayed" : 188733
+  },
+  {
+    "endTime" : "2023-10-11 23:08",
+    "artistName" : "Quin XCII",
+    "trackName" : "Stay Next to Me",
+    "msPlayed" : 204973
+  },
+  {
+    "endTime" : "2023-10-11 23:09",
+    "artistName" : "Post Malone",
+    "trackName" : "Sunflower",
+    "msPlayed" : 39241
+  }
+]

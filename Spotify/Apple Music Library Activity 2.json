@@ -1,0 +1,2559 @@
+[{
+  "Transaction Type" : "optInUser",
+  "Transaction Identifier" : 10000000,
+  "Transaction Date" : "2022-12-03T00:05:20Z",
+  "UserAgent" : "Internal Software",
+  "Subscription Start Date" : "2022-12-03T00:05:19Z",
+  "Subscription Type" : "Apple Music"
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 10000001,
+  "Transaction Date" : "2022-12-03T00:05:27Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/15.4.1 model/iPhone14,5 hwp/t8110 build/19E258 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-03T00:05:19Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 10000002,
+  "Transaction Date" : "2022-12-03T00:08:33Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/15.4.1 model/iPhone14,5 hwp/t8110 build/19E258 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857262,
+    "Date Added To Library" : "2022-12-03T00:08:32Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:32Z",
+    "Last Modified Date" : "2022-12-03T00:08:32Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540065829,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857266,
+    "Date Added To Library" : "2022-12-03T00:08:32Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:32Z",
+    "Last Modified Date" : "2022-12-03T00:08:32Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540065831,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857270,
+    "Date Added To Library" : "2022-12-03T00:08:32Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:32Z",
+    "Last Modified Date" : "2022-12-03T00:08:32Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540065840,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857474,
+    "Date Added To Library" : "2022-12-03T00:08:32Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:32Z",
+    "Last Modified Date" : "2022-12-03T00:08:32Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066148,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857478,
+    "Date Added To Library" : "2022-12-03T00:08:32Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:32Z",
+    "Last Modified Date" : "2022-12-03T00:08:32Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066152,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857482,
+    "Date Added To Library" : "2022-12-03T00:08:32Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:32Z",
+    "Last Modified Date" : "2022-12-03T00:08:32Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066158,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857486,
+    "Date Added To Library" : "2022-12-03T00:08:32Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:32Z",
+    "Last Modified Date" : "2022-12-03T00:08:32Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066162,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857490,
+    "Date Added To Library" : "2022-12-03T00:08:32Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:32Z",
+    "Last Modified Date" : "2022-12-03T00:08:32Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066168,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857494,
+    "Date Added To Library" : "2022-12-03T00:08:33Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:33Z",
+    "Last Modified Date" : "2022-12-03T00:08:33Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066175,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857498,
+    "Date Added To Library" : "2022-12-03T00:08:33Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:33Z",
+    "Last Modified Date" : "2022-12-03T00:08:33Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066480,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857502,
+    "Date Added To Library" : "2022-12-03T00:08:33Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:33Z",
+    "Last Modified Date" : "2022-12-03T00:08:33Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066490,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857506,
+    "Date Added To Library" : "2022-12-03T00:08:33Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:33Z",
+    "Last Modified Date" : "2022-12-03T00:08:33Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066495,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857510,
+    "Date Added To Library" : "2022-12-03T00:08:33Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:33Z",
+    "Last Modified Date" : "2022-12-03T00:08:33Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066502,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857514,
+    "Date Added To Library" : "2022-12-03T00:08:33Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:33Z",
+    "Last Modified Date" : "2022-12-03T00:08:33Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066504,
+    "Favorite Status - Album" : true
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857518,
+    "Date Added To Library" : "2022-12-03T00:08:33Z",
+    "Date Added To iCloud Music Library" : "2022-12-03T00:08:33Z",
+    "Last Modified Date" : "2022-12-03T00:08:33Z",
+    "Album Like Rating" : "liked",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1540066696,
+    "Favorite Status - Album" : true
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 10000003,
+  "Transaction Date" : "2022-12-03T11:46:01Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-03T00:05:19Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 10000004,
+  "Transaction Date" : "2022-12-03T11:46:01Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-03T00:05:19Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 10000005,
+  "Transaction Date" : "2022-12-05T05:16:04Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/15.4.1 model/iPhone14,5 hwp/t8110 build/19E258 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857522,
+    "Date Added To Library" : "2022-12-05T05:16:04Z",
+    "Date Added To iCloud Music Library" : "2022-12-05T05:16:04Z",
+    "Last Modified Date" : "2022-12-05T05:16:04Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1440818672
+  } ]
+},{
+  "Transaction Type" : "optOutUser",
+  "Transaction Identifier" : 10000006,
+  "Transaction Date" : "2022-12-05T05:29:29Z",
+  "UserAgent" : "Internal Software",
+  "Subscription End Date" : "2022-12-05T05:29:29Z",
+  "Subscription Types" : "Apple Music"
+},{
+  "Transaction Type" : "optInUser",
+  "Transaction Identifier" : 10000007,
+  "Transaction Date" : "2022-12-05T21:40:04Z",
+  "UserAgent" : "Internal Software",
+  "Subscription Start Date" : "2022-12-05T21:40:04Z",
+  "Subscription Type" : "Apple Music"
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 10000008,
+  "Transaction Date" : "2022-12-07T06:34:43Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857526,
+    "Date Added To Library" : "2022-12-07T06:34:43Z",
+    "Date Added To iCloud Music Library" : "2022-12-07T06:34:43Z",
+    "Last Modified Date" : "2022-12-07T06:34:43Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1506832357
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 10000009,
+  "Transaction Date" : "2022-12-07T06:35:10Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857526,
+    "Last Played Date" : "2022-12-07T06:35:08Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 10000010,
+  "Transaction Date" : "2022-12-09T00:59:32Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857526,
+    "Last Played Date" : "2022-12-07T07:24:14Z"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 10000011,
+  "Transaction Date" : "2023-01-18T02:09:28Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857730,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814196
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857734,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814202
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857738,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814205
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857742,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814208
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857746,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814209
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857750,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814210
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857754,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814213
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857758,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814215
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857762,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814219
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857766,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814222
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857770,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814224
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857774,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814497
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857778,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814505
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857782,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814509
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857986,
+    "Date Added To Library" : "2023-01-18T02:09:28Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T02:09:28Z",
+    "Last Modified Date" : "2023-01-18T02:09:28Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1588814510
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 10000012,
+  "Transaction Date" : "2023-01-18T02:09:28Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "subscribeToPlaylist",
+  "Transaction Identifier" : 10000013,
+  "Transaction Date" : "2023-01-18T04:35:49Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Public Playlist Identifier" : "pl.f678e1f1f05a4533930082ecdadfb99d"
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 10000014,
+  "Transaction Date" : "2023-01-18T05:13:30Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857990,
+    "Date Added To Library" : "2023-01-18T05:13:30Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T05:13:30Z",
+    "Last Modified Date" : "2023-01-18T05:13:30Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1162482667
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 10000015,
+  "Transaction Date" : "2023-01-18T05:17:27Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857730,
+    "Date of Last Skip" : "2023-01-18T04:48:04Z"
+  }, {
+    "Track Identifier" : 182857742,
+    "Date of Last Skip" : "2023-01-18T02:11:20Z"
+  }, {
+    "Track Identifier" : 182857746,
+    "Date of Last Skip" : "2023-01-18T02:11:36Z"
+  }, {
+    "Track Identifier" : 182857750,
+    "Date of Last Skip" : "2023-01-18T02:11:47Z"
+  }, {
+    "Track Identifier" : 182857754,
+    "Date of Last Skip" : "2023-01-18T02:11:42Z"
+  }, {
+    "Track Identifier" : 182857778,
+    "Date of Last Skip" : "2023-01-18T03:39:31Z"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 10000016,
+  "Transaction Date" : "2023-01-18T18:07:21Z",
+  "UserAgent" : "Music/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857994,
+    "Title" : "THE GREATEST | NaijaMusic.Ng",
+    "Sort Name" : "GREATEST | NaijaMusic.Ng",
+    "Artist" : "Sia",
+    "Is Part of Compilation" : false,
+    "Album" : "THE GREATEST",
+    "Sort Album" : "GREATEST",
+    "Genre" : "@NaijaMusic.Ng",
+    "Comments" : "Downloaded from NaijaMusic.Ng",
+    "Track Year" : 2022,
+    "Track Number On Album" : 0,
+    "Track Count On Album" : 0,
+    "Disc Number Of Album" : 0,
+    "Disc Count Of Album" : 0,
+    "Track Duration" : 351576,
+    "Track Play Count" : 0,
+    "Date Added To Library" : "2023-01-18T18:02:19Z",
+    "Date Added To iCloud Music Library" : "2023-01-18T18:07:21Z",
+    "Last Modified Date" : "2023-01-18T18:02:13Z",
+    "Rating" : 0,
+    "Album Rating" : 0,
+    "Skip Count" : 0,
+    "Audio File Extension" : "mp3",
+    "Remember Playback Position" : false,
+    "Album Rating Method" : "Calculated",
+    "Is Checked" : false,
+    "Playlist Only Track" : false,
+    "Display Work Name" : false
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 10000018,
+  "Transaction Date" : "2023-01-20T06:04:57Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857990,
+    "Last Played Date" : "2023-01-19T18:56:22Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 10000019,
+  "Transaction Date" : "2023-01-20T06:37:11Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857750,
+    "Date of Last Skip" : "2023-01-18T02:11:47Z"
+  }, {
+    "Track Identifier" : 182857742,
+    "Date of Last Skip" : "2023-01-18T02:11:20Z"
+  }, {
+    "Track Identifier" : 182857754,
+    "Date of Last Skip" : "2023-01-18T02:11:42Z"
+  }, {
+    "Track Identifier" : 182857746,
+    "Date of Last Skip" : "2023-01-18T02:11:36Z"
+  }, {
+    "Track Identifier" : 182857778,
+    "Date of Last Skip" : "2023-01-18T03:39:31Z"
+  }, {
+    "Track Identifier" : 182857990,
+    "Last Played Date" : "2023-01-19T18:56:22Z"
+  }, {
+    "Track Identifier" : 182857730,
+    "Date of Last Skip" : "2023-01-18T04:48:04Z"
+  } ]
+},{
+  "Transaction Type" : "deleteContainer",
+  "Transaction Identifier" : 10000020,
+  "Transaction Date" : "2023-02-02T01:58:20Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Playlist Identifier" : 256000261
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 10000021,
+  "Transaction Date" : "2023-02-02T01:58:20Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 10000022,
+  "Transaction Date" : "2023-02-05T06:10:28Z",
+  "UserAgent" : "Internal Software",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "backfillAlbumArtists",
+  "Transaction Identifier" : 10000023,
+  "Transaction Date" : "2023-02-05T06:10:30Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn"
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 10000024,
+  "Transaction Date" : "2023-02-28T01:50:03Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857734,
+    "Date of Last Skip" : "2023-02-28T01:43:08Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 10000026,
+  "Transaction Date" : "2023-02-28T01:50:03Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 10000027,
+  "Transaction Date" : "2023-02-28T01:50:03Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857734,
+    "Track Like Rating" : "liked",
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2023-02-28T01:50:02Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 10000028,
+  "Transaction Date" : "2023-03-01T23:09:08Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857734,
+    "Date of Last Skip" : "2023-02-28T01:43:08Z"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 20000001,
+  "Transaction Date" : "2023-04-29T20:51:51Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182857998,
+    "Date Added To Library" : "2023-04-29T20:51:51Z",
+    "Date Added To iCloud Music Library" : "2023-04-29T20:51:51Z",
+    "Last Modified Date" : "2023-04-29T20:51:51Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1681324043
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858002,
+    "Date Added To Library" : "2023-04-29T20:51:51Z",
+    "Date Added To iCloud Music Library" : "2023-04-29T20:51:51Z",
+    "Last Modified Date" : "2023-04-29T20:51:51Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1681324047
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858006,
+    "Date Added To Library" : "2023-04-29T20:51:51Z",
+    "Date Added To iCloud Music Library" : "2023-04-29T20:51:51Z",
+    "Last Modified Date" : "2023-04-29T20:51:51Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1681324059
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858010,
+    "Date Added To Library" : "2023-04-29T20:51:51Z",
+    "Date Added To iCloud Music Library" : "2023-04-29T20:51:51Z",
+    "Last Modified Date" : "2023-04-29T20:51:51Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1681324063
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858014,
+    "Date Added To Library" : "2023-04-29T20:51:51Z",
+    "Date Added To iCloud Music Library" : "2023-04-29T20:51:51Z",
+    "Last Modified Date" : "2023-04-29T20:51:51Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1681324156
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858018,
+    "Date Added To Library" : "2023-04-29T20:51:51Z",
+    "Date Added To iCloud Music Library" : "2023-04-29T20:51:51Z",
+    "Last Modified Date" : "2023-04-29T20:51:51Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1681324159
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000002,
+  "Transaction Date" : "2023-04-29T20:51:51Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000003,
+  "Transaction Date" : "2023-04-30T12:47:29Z",
+  "UserAgent" : "Internal Software",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "addContainer",
+  "Transaction Identifier" : 20000004,
+  "Transaction Date" : "2023-04-30T12:47:31Z",
+  "UserAgent" : "Internal Software",
+  "Playlist" : {
+    "Container Type" : "Favorites Playlist",
+    "Container Identifier" : 2,
+    "Title" : "Favorite Songs",
+    "Playlist Item Identifiers" : [ 182857734 ],
+    "Favorite Status - Playlist" : true,
+    "Name or Description Modified Date" : "2023-04-30T12:47:31Z",
+    "Playlist Items Modified Date" : "2023-04-30T12:47:31Z"
+  }
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000005,
+  "Transaction Date" : "2023-04-30T12:47:31Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000006,
+  "Transaction Date" : "2023-04-30T17:39:22Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-04-30T17:39:20Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000007,
+  "Transaction Date" : "2023-05-17T03:27:55Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-05-17T03:27:50Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000008,
+  "Transaction Date" : "2023-05-17T03:27:55Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000009,
+  "Transaction Date" : "2023-05-17T13:43:10Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857994,
+    "Last Modified Date" : "2023-01-18T06:02:13Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000010,
+  "Transaction Date" : "2023-05-18T04:39:16Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Date of Last Skip" : "2023-05-18T03:53:12Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-05-17T04:37:10Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000011,
+  "Transaction Date" : "2023-05-22T03:09:42Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2023-05-21T04:16:12Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000012,
+  "Transaction Date" : "2023-05-25T03:39:21Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2023-05-24T06:26:41Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-05-24T06:23:18Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000013,
+  "Transaction Date" : "2023-05-25T03:39:21Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000014,
+  "Transaction Date" : "2023-05-30T10:53:37Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-05-27T10:01:49Z"
+  }, {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2023-05-27T10:11:18Z"
+  }, {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-05-27T10:04:59Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000015,
+  "Transaction Date" : "2023-06-01T01:31:10Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-05-30T11:34:32Z"
+  }, {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-05-30T11:00:02Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-06-01T01:31:07Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000016,
+  "Transaction Date" : "2023-06-02T11:04:13Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2023-06-01T10:30:07Z"
+  }, {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2023-06-01T01:34:30Z"
+  }, {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-06-01T13:23:21Z",
+    "Date of Last Skip" : "2023-06-01T10:10:26Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000017,
+  "Transaction Date" : "2023-06-02T11:04:14Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000018,
+  "Transaction Date" : "2023-06-08T04:33:52Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-06-02T11:23:25Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000019,
+  "Transaction Date" : "2023-06-19T08:44:09Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-06-19T08:44:07Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000020,
+  "Transaction Date" : "2023-06-19T08:44:09Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000021,
+  "Transaction Date" : "2023-06-20T00:12:44Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Date of Last Skip" : "2023-06-19T09:13:32Z"
+  }, {
+    "Track Identifier" : 182858010,
+    "Date of Last Skip" : "2023-06-19T09:07:26Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000022,
+  "Transaction Date" : "2023-06-21T04:22:54Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Date of Last Skip" : "2023-06-20T09:27:12Z"
+  }, {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2023-06-20T08:59:08Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-06-21T04:22:52Z",
+    "Date of Last Skip" : "2023-06-20T04:30:26Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000023,
+  "Transaction Date" : "2023-07-12T02:39:08Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-07-12T02:39:07Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000024,
+  "Transaction Date" : "2023-07-12T02:39:09Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000025,
+  "Transaction Date" : "2023-07-16T10:43:10Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2023-07-12T02:42:29Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000026,
+  "Transaction Date" : "2023-07-18T11:21:16Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-07-16T12:04:32Z"
+  }, {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2023-07-16T10:50:10Z"
+  }, {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-07-16T11:50:52Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-07-18T11:21:12Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000027,
+  "Transaction Date" : "2023-07-22T08:01:15Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Date of Last Skip" : "2023-07-18T11:29:22Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000028,
+  "Transaction Date" : "2023-07-22T08:01:19Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000029,
+  "Transaction Date" : "2023-07-30T05:13:04Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-07-25T12:28:57Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000030,
+  "Transaction Date" : "2023-07-30T05:13:04Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000031,
+  "Transaction Date" : "2023-07-31T02:08:31Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-07-30T14:53:53Z"
+  }, {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-07-30T14:56:31Z"
+  }, {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-07-30T05:20:06Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-07-31T02:08:29Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000032,
+  "Transaction Date" : "2023-08-02T00:58:58Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-07-31T03:50:01Z"
+  }, {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2023-07-31T02:13:20Z"
+  }, {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-07-31T03:52:39Z"
+  }, {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-07-31T02:52:22Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-08-02T00:58:45Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000033,
+  "Transaction Date" : "2023-08-03T07:03:17Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-08-02T01:44:59Z"
+  }, {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2023-08-02T02:20:30Z"
+  }, {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-08-02T01:47:37Z"
+  }, {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-08-02T03:06:56Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000034,
+  "Transaction Date" : "2023-08-05T10:59:51Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-08-03T07:49:52Z"
+  }, {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2023-08-03T08:25:55Z"
+  }, {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-08-03T07:52:30Z"
+  }, {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-08-03T10:05:22Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000035,
+  "Transaction Date" : "2023-08-06T01:32:27Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-08-05T13:27:08Z"
+  }, {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2023-08-05T13:51:18Z"
+  }, {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-08-05T13:23:35Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000036,
+  "Transaction Date" : "2023-08-09T08:54:26Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-08-06T01:39:07Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000037,
+  "Transaction Date" : "2023-08-09T08:54:26Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000038,
+  "Transaction Date" : "2023-08-10T13:40:36Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-08-10T01:33:33Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000039,
+  "Transaction Date" : "2023-08-16T19:19:12Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-08-10T13:47:38Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000040,
+  "Transaction Date" : "2023-08-16T19:19:12Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000041,
+  "Transaction Date" : "2023-08-18T14:19:13Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-08-17T19:58:08Z"
+  }, {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-08-17T19:54:35Z"
+  }, {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-08-17T19:41:59Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000042,
+  "Transaction Date" : "2023-08-19T15:16:01Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2023-08-18T14:29:54Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-08-18T14:23:34Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000043,
+  "Transaction Date" : "2023-08-21T16:42:01Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-08-20T14:56:33Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000044,
+  "Transaction Date" : "2023-08-22T00:14:22Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-08-22T00:14:21Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000045,
+  "Transaction Date" : "2023-08-22T13:10:01Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-08-22T00:58:12Z"
+  }, {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2023-08-22T00:48:27Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000046,
+  "Transaction Date" : "2023-08-25T14:22:09Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Date of Last Skip" : "2023-08-24T20:40:33Z"
+  }, {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2023-08-24T20:16:34Z"
+  }, {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-08-24T14:25:22Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000047,
+  "Transaction Date" : "2023-08-25T14:22:09Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000048,
+  "Transaction Date" : "2023-08-26T18:09:02Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-08-25T20:27:00Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000049,
+  "Transaction Date" : "2023-08-28T18:49:33Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858014,
+    "Date of Last Skip" : "2023-08-26T18:15:36Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-08-26T18:22:09Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000050,
+  "Transaction Date" : "2023-08-31T20:02:52Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-08-31T01:06:50Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000051,
+  "Transaction Date" : "2023-09-01T14:51:57Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-08-31T20:43:20Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-08-31T20:50:08Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000052,
+  "Transaction Date" : "2023-09-01T15:56:55Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000053,
+  "Transaction Date" : "2023-09-04T14:05:09Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2023-09-03T16:18:01Z"
+  }, {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2023-09-01T18:29:15Z"
+  }, {
+    "Track Identifier" : 182858010,
+    "Last Played Date" : "2023-09-03T16:24:43Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-09-03T16:09:20Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000054,
+  "Transaction Date" : "2023-09-05T13:41:10Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Date of Last Skip" : "2023-09-04T23:22:25Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-09-04T14:46:19Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000055,
+  "Transaction Date" : "2023-09-07T13:43:57Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2023-09-06T13:48:51Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-09-06T20:49:45Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000056,
+  "Transaction Date" : "2023-09-08T14:15:59Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Date of Last Skip" : "2023-09-07T20:08:24Z"
+  }, {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2023-09-07T22:37:24Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000057,
+  "Transaction Date" : "2023-09-09T01:48:22Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000058,
+  "Transaction Date" : "2023-09-12T06:05:42Z",
+  "UserAgent" : "Internal Software",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "backfillAlbumArtists",
+  "Transaction Identifier" : 20000059,
+  "Transaction Date" : "2023-09-12T06:05:43Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn"
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000060,
+  "Transaction Date" : "2023-09-15T14:41:22Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2023-09-14T17:12:52Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000061,
+  "Transaction Date" : "2023-09-17T14:40:58Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000062,
+  "Transaction Date" : "2023-09-18T14:54:18Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-09-15T14:47:52Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000063,
+  "Transaction Date" : "2023-09-30T00:31:13Z",
+  "UserAgent" : "AMPLibraryAgent/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Date of Last Skip" : "2023-06-26T17:35:55Z"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 20000064,
+  "Transaction Date" : "2023-09-30T00:31:15Z",
+  "UserAgent" : "Music/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858022,
+    "Title" : "3",
+    "Is Part of Compilation" : false,
+    "Track Year" : 0,
+    "Track Number On Album" : 0,
+    "Track Count On Album" : 0,
+    "Disc Number Of Album" : 0,
+    "Disc Count Of Album" : 0,
+    "Track Duration" : 74396,
+    "Track Play Count" : 1,
+    "Date Added To Library" : "2023-07-06T13:50:18Z",
+    "Date Added To iCloud Music Library" : "2023-09-30T00:31:15Z",
+    "Last Modified Date" : "2023-07-06T01:50:13Z",
+    "Last Played Date" : "2023-07-06T13:51:49Z",
+    "Rating" : 0,
+    "Album Rating" : 0,
+    "Skip Count" : 1,
+    "Audio File Extension" : "mp3",
+    "Remember Playback Position" : false,
+    "Album Rating Method" : "Calculated",
+    "Is Checked" : false,
+    "Playlist Only Track" : false,
+    "Display Work Name" : false
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858026,
+    "Title" : "ZOOM0152",
+    "Is Part of Compilation" : false,
+    "Track Year" : 0,
+    "Track Number On Album" : 0,
+    "Track Count On Album" : 0,
+    "Disc Number Of Album" : 0,
+    "Disc Count Of Album" : 0,
+    "Track Duration" : 153681,
+    "Track Play Count" : 0,
+    "Date Added To Library" : "2023-09-30T00:29:15Z",
+    "Date Added To iCloud Music Library" : "2023-09-30T00:31:15Z",
+    "Last Modified Date" : "2023-09-24T15:43:32Z",
+    "Rating" : 0,
+    "Album Rating" : 0,
+    "Skip Count" : 0,
+    "Audio File Extension" : "WAV",
+    "Remember Playback Position" : false,
+    "Album Rating Method" : "Calculated",
+    "Is Checked" : false,
+    "Playlist Only Track" : false,
+    "Display Work Name" : false
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000065,
+  "Transaction Date" : "2023-09-30T00:31:32Z",
+  "UserAgent" : "Music/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858026,
+    "Audio File Extension" : "m4a"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 20000066,
+  "Transaction Date" : "2023-09-30T00:42:32Z",
+  "UserAgent" : "Music/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858030,
+    "Title" : "ZOOM0155",
+    "Is Part of Compilation" : false,
+    "Track Year" : 0,
+    "Track Number On Album" : 0,
+    "Track Count On Album" : 0,
+    "Disc Number Of Album" : 0,
+    "Disc Count Of Album" : 0,
+    "Track Duration" : 100001,
+    "Track Play Count" : 0,
+    "Date Added To Library" : "2023-09-30T00:36:37Z",
+    "Date Added To iCloud Music Library" : "2023-09-30T00:42:32Z",
+    "Last Modified Date" : "2023-09-24T16:05:38Z",
+    "Rating" : 0,
+    "Album Rating" : 0,
+    "Skip Count" : 0,
+    "Audio File Extension" : "WAV",
+    "Remember Playback Position" : false,
+    "Album Rating Method" : "Calculated",
+    "Is Checked" : false,
+    "Playlist Only Track" : false,
+    "Display Work Name" : false
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858034,
+    "Title" : "ZOOM0156",
+    "Is Part of Compilation" : false,
+    "Track Year" : 0,
+    "Track Number On Album" : 0,
+    "Track Count On Album" : 0,
+    "Disc Number Of Album" : 0,
+    "Disc Count Of Album" : 0,
+    "Track Duration" : 117777,
+    "Track Play Count" : 0,
+    "Date Added To Library" : "2023-09-30T00:36:58Z",
+    "Date Added To iCloud Music Library" : "2023-09-30T00:42:32Z",
+    "Last Modified Date" : "2023-09-24T16:14:32Z",
+    "Rating" : 0,
+    "Album Rating" : 0,
+    "Skip Count" : 0,
+    "Audio File Extension" : "WAV",
+    "Remember Playback Position" : false,
+    "Album Rating Method" : "Calculated",
+    "Is Checked" : false,
+    "Playlist Only Track" : false,
+    "Display Work Name" : false
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858038,
+    "Title" : "ZOOM0158",
+    "Is Part of Compilation" : false,
+    "Track Year" : 0,
+    "Track Number On Album" : 0,
+    "Track Count On Album" : 0,
+    "Disc Number Of Album" : 0,
+    "Disc Count Of Album" : 0,
+    "Track Duration" : 97956,
+    "Track Play Count" : 0,
+    "Date Added To Library" : "2023-09-30T00:37:17Z",
+    "Date Added To iCloud Music Library" : "2023-09-30T00:42:32Z",
+    "Last Modified Date" : "2023-09-24T16:25:14Z",
+    "Rating" : 0,
+    "Album Rating" : 0,
+    "Skip Count" : 0,
+    "Audio File Extension" : "WAV",
+    "Remember Playback Position" : false,
+    "Album Rating Method" : "Calculated",
+    "Is Checked" : false,
+    "Playlist Only Track" : false,
+    "Display Work Name" : false
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858242,
+    "Title" : "ZOOM0161",
+    "Is Part of Compilation" : false,
+    "Track Year" : 0,
+    "Track Number On Album" : 0,
+    "Track Count On Album" : 0,
+    "Disc Number Of Album" : 0,
+    "Disc Count Of Album" : 0,
+    "Track Duration" : 52964,
+    "Track Play Count" : 0,
+    "Date Added To Library" : "2023-09-30T00:37:30Z",
+    "Date Added To iCloud Music Library" : "2023-09-30T00:42:32Z",
+    "Last Modified Date" : "2023-09-24T16:53:20Z",
+    "Rating" : 0,
+    "Album Rating" : 0,
+    "Skip Count" : 0,
+    "Audio File Extension" : "WAV",
+    "Remember Playback Position" : false,
+    "Album Rating Method" : "Calculated",
+    "Is Checked" : false,
+    "Playlist Only Track" : false,
+    "Display Work Name" : false
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000067,
+  "Transaction Date" : "2023-09-30T00:43:01Z",
+  "UserAgent" : "Music/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858030,
+    "Audio File Extension" : "m4a"
+  }, {
+    "Track Identifier" : 182858038,
+    "Audio File Extension" : "m4a"
+  }, {
+    "Track Identifier" : 182858034,
+    "Audio File Extension" : "m4a"
+  }, {
+    "Track Identifier" : 182858242,
+    "Audio File Extension" : "m4a"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 20000068,
+  "Transaction Date" : "2023-09-30T01:06:20Z",
+  "UserAgent" : "Music/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858246,
+    "Title" : "ZOOM0166",
+    "Is Part of Compilation" : false,
+    "Track Year" : 0,
+    "Track Number On Album" : 0,
+    "Track Count On Album" : 0,
+    "Disc Number Of Album" : 0,
+    "Disc Count Of Album" : 0,
+    "Track Duration" : 70869,
+    "Track Play Count" : 0,
+    "Date Added To Library" : "2023-09-30T01:01:18Z",
+    "Date Added To iCloud Music Library" : "2023-09-30T01:06:20Z",
+    "Last Modified Date" : "2023-09-24T17:02:14Z",
+    "Rating" : 0,
+    "Album Rating" : 0,
+    "Skip Count" : 0,
+    "Audio File Extension" : "WAV",
+    "Remember Playback Position" : false,
+    "Album Rating Method" : "Calculated",
+    "Is Checked" : false,
+    "Playlist Only Track" : false,
+    "Display Work Name" : false
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000069,
+  "Transaction Date" : "2023-09-30T01:06:37Z",
+  "UserAgent" : "Music/1.3 (Macintosh; OS X 13.0) AppleWebKit/614.2.9.1.12 build/138 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858246,
+    "Audio File Extension" : "m4a"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000070,
+  "Transaction Date" : "2023-10-02T00:30:20Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000071,
+  "Transaction Date" : "2023-10-03T16:27:55Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2023-10-03T15:05:22Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000072,
+  "Transaction Date" : "2023-10-06T18:28:47Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858010,
+    "Date of Last Skip" : "2023-10-05T14:45:36Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000073,
+  "Transaction Date" : "2023-10-08T01:17:34Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2023-10-08T01:17:33Z"
+  }, {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2023-10-08T01:14:00Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000074,
+  "Transaction Date" : "2023-11-08T05:39:13Z",
+  "UserAgent" : "Internal Software",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000075,
+  "Transaction Date" : "2023-11-08T05:39:13Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857734,
+    "Track Like Rating" : "liked",
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2023-02-28T01:50:03Z"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 20000076,
+  "Transaction Date" : "2023-11-08T05:39:13Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858250,
+    "Date Added To Library" : "2023-11-08T05:39:13Z",
+    "Date Added To iCloud Music Library" : "2023-11-08T05:39:13Z",
+    "Last Modified Date" : "2023-11-08T05:39:13Z",
+    "Track Like Rating" : "liked",
+    "Is Checked" : false,
+    "Playlist Only Track" : true,
+    "Apple Music Track Identifier" : 1639848716,
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2023-02-02T01:57:45Z"
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858254,
+    "Date Added To Library" : "2023-11-08T05:39:13Z",
+    "Date Added To iCloud Music Library" : "2023-11-08T05:39:13Z",
+    "Last Modified Date" : "2023-11-08T05:39:13Z",
+    "Track Like Rating" : "liked",
+    "Is Checked" : false,
+    "Playlist Only Track" : true,
+    "Apple Music Track Identifier" : 1632682451,
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2023-04-30T17:40:08Z"
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858258,
+    "Date Added To Library" : "2023-11-08T05:39:13Z",
+    "Date Added To iCloud Music Library" : "2023-11-08T05:39:13Z",
+    "Last Modified Date" : "2023-11-08T05:39:13Z",
+    "Track Like Rating" : "liked",
+    "Is Checked" : false,
+    "Playlist Only Track" : true,
+    "Apple Music Track Identifier" : 1370924882,
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2022-12-28T00:26:11Z"
+  }, {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858262,
+    "Date Added To Library" : "2023-11-08T05:39:13Z",
+    "Date Added To iCloud Music Library" : "2023-11-08T05:39:13Z",
+    "Last Modified Date" : "2023-11-08T05:39:13Z",
+    "Track Like Rating" : "liked",
+    "Is Checked" : false,
+    "Playlist Only Track" : true,
+    "Apple Music Track Identifier" : 1578002160,
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2023-01-18T04:38:29Z"
+  } ]
+},{
+  "Transaction Type" : "updateContainer",
+  "Transaction Identifier" : 20000077,
+  "Transaction Date" : "2023-11-08T05:39:13Z",
+  "UserAgent" : "Internal Software",
+  "Playlist" : {
+    "Container Identifier" : 2,
+    "Playlist Item Identifiers" : [ 182858254, 182857734, 182858250, 182858262, 182858258 ],
+    "Favorite Status - Playlist" : true,
+    "Playlist Items Modified Date" : "2023-11-08T05:39:13Z"
+  }
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000078,
+  "Transaction Date" : "2023-11-08T05:39:13Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000079,
+  "Transaction Date" : "2023-11-10T08:51:01Z",
+  "UserAgent" : "Internal Software",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000080,
+  "Transaction Date" : "2023-11-21T15:36:27Z",
+  "UserAgent" : "Internal Software",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000081,
+  "Transaction Date" : "2023-11-21T15:36:27Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858254,
+    "Track Like Rating" : "liked",
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2023-04-30T17:40:08Z"
+  }, {
+    "Track Identifier" : 182858258,
+    "Track Like Rating" : "liked",
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2022-12-28T00:26:11Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000082,
+  "Transaction Date" : "2023-11-21T15:36:27Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000083,
+  "Transaction Date" : "2024-02-26T15:07:57Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2024-02-25T23:50:41Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000084,
+  "Transaction Date" : "2024-02-28T17:16:52Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2024-02-27T23:27:27Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000085,
+  "Transaction Date" : "2024-03-05T17:56:17Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2024-03-05T17:53:24Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000086,
+  "Transaction Date" : "2024-03-06T18:27:01Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2024-03-06T18:26:59Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000087,
+  "Transaction Date" : "2024-03-16T17:23:41Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2024-03-14T03:14:19Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000088,
+  "Transaction Date" : "2024-03-17T17:17:01Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2024-03-16T19:02:02Z"
+  }, {
+    "Track Identifier" : 182857998,
+    "Date of Last Skip" : "2024-03-16T18:54:37Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000089,
+  "Transaction Date" : "2024-03-24T17:21:02Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858006,
+    "Last Played Date" : "2024-03-21T13:47:47Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2024-03-24T17:20:54Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000090,
+  "Transaction Date" : "2024-03-27T17:16:04Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/16.1.2 model/iPhone14,5 hwp/t8110 build/20B110 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2024-03-27T01:18:20Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000091,
+  "Transaction Date" : "2024-03-29T17:15:33Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857730,
+    "Apple Music Track Identifier" : 1644665201
+  }, {
+    "Track Identifier" : 182857734,
+    "Apple Music Track Identifier" : 1440829549
+  }, {
+    "Track Identifier" : 182857738,
+    "Apple Music Track Identifier" : 1500952435
+  }, {
+    "Track Identifier" : 182857774,
+    "Apple Music Track Identifier" : 1360211863
+  }, {
+    "Track Identifier" : 182857778,
+    "Apple Music Track Identifier" : 1536059293
+  }, {
+    "Track Identifier" : 182857986,
+    "Apple Music Track Identifier" : 1563956691
+  }, {
+    "Track Identifier" : 182857782,
+    "Apple Music Track Identifier" : 1472501918
+  }, {
+    "Track Identifier" : 182857770,
+    "Apple Music Track Identifier" : 1450695739
+  }, {
+    "Track Identifier" : 182857750,
+    "Apple Music Track Identifier" : 1440650859
+  }, {
+    "Track Identifier" : 182857746,
+    "Apple Music Track Identifier" : 1524127538
+  }, {
+    "Track Identifier" : 182858250,
+    "Apple Music Track Identifier" : 1722409792
+  }, {
+    "Track Identifier" : 182857742,
+    "Apple Music Track Identifier" : 1584847328
+  }, {
+    "Track Identifier" : 182857758,
+    "Apple Music Track Identifier" : 1555606202
+  }, {
+    "Track Identifier" : 182857762,
+    "Apple Music Track Identifier" : 1588219798
+  }, {
+    "Track Identifier" : 182857766,
+    "Apple Music Track Identifier" : 1489959589
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000092,
+  "Transaction Date" : "2024-03-29T17:15:33Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000093,
+  "Transaction Date" : "2024-06-04T02:20:39Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2024-06-03T11:51:26Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000094,
+  "Transaction Date" : "2024-06-04T16:01:21Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2024-06-04T12:08:40Z"
+  }, {
+    "Track Identifier" : 182858010,
+    "Date of Last Skip" : "2024-06-04T12:18:01Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2024-06-04T02:38:21Z"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 20000095,
+  "Transaction Date" : "2024-06-05T02:19:03Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858266,
+    "Date Added To Library" : "2024-06-05T02:19:03Z",
+    "Date Added To iCloud Music Library" : "2024-06-05T02:19:03Z",
+    "Last Modified Date" : "2024-06-05T02:19:03Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1571363622
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000096,
+  "Transaction Date" : "2024-06-05T02:19:03Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858266,
+    "Track Like Rating" : "liked",
+    "Playlist Only Track" : false,
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2024-06-05T02:19:03Z"
+  } ]
+},{
+  "Transaction Type" : "updateContainer",
+  "Transaction Identifier" : 20000097,
+  "Transaction Date" : "2024-06-05T02:19:03Z",
+  "UserAgent" : "Internal Software",
+  "Playlist" : {
+    "Container Identifier" : 2,
+    "Playlist Item Identifiers" : [ 182858266, 182858254, 182857734, 182858250, 182858262, 182858258 ],
+    "Playlist Items Modified Date" : "2024-06-05T02:19:03Z"
+  }
+},{
+  "Transaction Type" : "updateContainer",
+  "Transaction Identifier" : 20000098,
+  "Transaction Date" : "2024-06-05T02:19:03Z",
+  "UserAgent" : "Internal Software",
+  "Playlist" : {
+    "Container Identifier" : 2,
+    "Playlist Item Identifiers" : [ 182858266, 182858254, 182857734, 182858250, 182858262, 182858258 ],
+    "Playlist Items Modified Date" : "2024-06-05T02:19:03Z"
+  }
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000099,
+  "Transaction Date" : "2024-06-06T02:16:19Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000101,
+  "Transaction Date" : "2024-06-08T03:30:21Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2024-06-07T07:13:25Z"
+  }, {
+    "Track Identifier" : 182858266,
+    "Last Played Date" : "2024-06-07T07:59:21Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000102,
+  "Transaction Date" : "2024-06-09T14:37:38Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858266,
+    "Last Played Date" : "2024-06-08T03:52:57Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000103,
+  "Transaction Date" : "2024-06-18T09:51:29Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858266,
+    "Date of Last Skip" : "2024-06-13T02:41:59Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000104,
+  "Transaction Date" : "2024-06-19T02:43:59Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858266,
+    "Last Played Date" : "2024-06-18T10:27:46Z"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 20000105,
+  "Transaction Date" : "2024-06-21T00:32:36Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858270,
+    "Date Added To Library" : "2024-06-21T00:32:36Z",
+    "Date Added To iCloud Music Library" : "2024-06-21T00:32:36Z",
+    "Last Modified Date" : "2024-06-21T00:32:36Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1700267019
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000106,
+  "Transaction Date" : "2024-06-21T00:32:36Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858270,
+    "Track Like Rating" : "liked",
+    "Playlist Only Track" : false,
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2024-06-21T00:32:35Z"
+  } ]
+},{
+  "Transaction Type" : "updateContainer",
+  "Transaction Identifier" : 20000107,
+  "Transaction Date" : "2024-06-21T00:32:36Z",
+  "UserAgent" : "Internal Software",
+  "Playlist" : {
+    "Container Identifier" : 2,
+    "Playlist Item Identifiers" : [ 182858270, 182858266, 182858254, 182857734, 182858250, 182858262, 182858258 ],
+    "Playlist Items Modified Date" : "2024-06-21T00:32:36Z"
+  }
+},{
+  "Transaction Type" : "updateContainer",
+  "Transaction Identifier" : 20000108,
+  "Transaction Date" : "2024-06-21T00:32:36Z",
+  "UserAgent" : "Internal Software",
+  "Playlist" : {
+    "Container Identifier" : 2,
+    "Playlist Item Identifiers" : [ 182858270, 182858266, 182858254, 182857734, 182858250, 182858262, 182858258 ],
+    "Playlist Items Modified Date" : "2024-06-21T00:32:36Z"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000109,
+  "Transaction Date" : "2024-06-21T13:09:54Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2024-06-21T00:00:14Z"
+  }, {
+    "Track Identifier" : 182858014,
+    "Last Played Date" : "2024-06-20T23:49:18Z"
+  }, {
+    "Track Identifier" : 182858270,
+    "Last Played Date" : "2024-06-21T00:44:15Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000110,
+  "Transaction Date" : "2024-06-22T01:11:52Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2024-06-21T15:06:30Z"
+  }, {
+    "Track Identifier" : 182858270,
+    "Last Played Date" : "2024-06-22T00:40:52Z",
+    "Date of Last Skip" : "2024-06-22T00:37:41Z"
+  }, {
+    "Track Identifier" : 182858002,
+    "Last Played Date" : "2024-06-22T00:21:34Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000111,
+  "Transaction Date" : "2024-06-23T00:32:32Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000112,
+  "Transaction Date" : "2024-06-23T10:16:11Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858270,
+    "Last Played Date" : "2024-06-23T10:16:09Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000113,
+  "Transaction Date" : "2024-06-28T02:47:02Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858270,
+    "Last Played Date" : "2024-06-27T06:04:33Z"
+  }, {
+    "Track Identifier" : 182858266,
+    "Date of Last Skip" : "2024-06-27T02:44:21Z"
+  } ]
+},{
+  "Transaction Type" : "updateUser",
+  "Transaction Identifier" : 20000114,
+  "Transaction Date" : "2024-06-30T02:46:45Z",
+  "UserAgent" : "Internal Software",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "User" : {
+    "Subscription Start Date" : "2022-12-05T21:40:04Z",
+    "Subscription End Date" : "2022-12-05T05:29:29Z",
+    "Subscription Types" : [ "Apple Music" ],
+    "Add Playlist Songs Setting" : "Playlist Only"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000115,
+  "Transaction Date" : "2024-06-30T06:19:09Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858266,
+    "Last Played Date" : "2024-06-29T06:44:46Z"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 20000116,
+  "Transaction Date" : "2024-06-30T06:54:37Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858274,
+    "Date Added To Library" : "2024-06-30T06:54:37Z",
+    "Date Added To iCloud Music Library" : "2024-06-30T06:54:37Z",
+    "Last Modified Date" : "2024-06-30T06:54:37Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1625319421
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000117,
+  "Transaction Date" : "2024-06-30T06:54:37Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858274,
+    "Track Like Rating" : "liked",
+    "Playlist Only Track" : false,
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2024-06-30T06:54:36Z"
+  } ]
+},{
+  "Transaction Type" : "updateContainer",
+  "Transaction Identifier" : 20000118,
+  "Transaction Date" : "2024-06-30T06:54:38Z",
+  "UserAgent" : "Internal Software",
+  "Playlist" : {
+    "Container Identifier" : 2,
+    "Playlist Item Identifiers" : [ 182858274, 182858270, 182858266, 182858254, 182857734, 182858250, 182858262, 182858258 ],
+    "Playlist Items Modified Date" : "2024-06-30T06:54:37Z"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000119,
+  "Transaction Date" : "2024-07-01T02:46:30Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182857998,
+    "Last Played Date" : "2024-06-30T11:26:34Z"
+  }, {
+    "Track Identifier" : 182858274,
+    "Last Played Date" : "2024-06-30T06:55:47Z"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 20000120,
+  "Transaction Date" : "2024-07-01T02:54:09Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858278,
+    "Date Added To Library" : "2024-07-01T02:54:09Z",
+    "Date Added To iCloud Music Library" : "2024-07-01T02:54:09Z",
+    "Last Modified Date" : "2024-07-01T02:54:09Z",
+    "Is Checked" : false,
+    "Apple Music Track Identifier" : 1571363625
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000121,
+  "Transaction Date" : "2024-07-01T02:54:09Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858278,
+    "Track Like Rating" : "liked",
+    "Playlist Only Track" : false,
+    "Favorite Status - Track" : true,
+    "Favorite Date - Track" : "2024-07-01T02:54:09Z"
+  } ]
+},{
+  "Transaction Type" : "updateContainer",
+  "Transaction Identifier" : 20000122,
+  "Transaction Date" : "2024-07-01T02:54:09Z",
+  "UserAgent" : "Internal Software",
+  "Playlist" : {
+    "Container Identifier" : 2,
+    "Playlist Item Identifiers" : [ 182858278, 182858274, 182858270, 182858266, 182858254, 182857734, 182858250, 182858262, 182858258 ],
+    "Playlist Items Modified Date" : "2024-07-01T02:54:09Z"
+  }
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000123,
+  "Transaction Date" : "2024-07-02T02:47:06Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858278,
+    "Last Played Date" : "2024-07-01T02:57:21Z"
+  } ]
+},{
+  "Transaction Type" : "updateItems",
+  "Transaction Identifier" : 20000124,
+  "Transaction Date" : "2024-07-10T03:17:44Z",
+  "UserAgent" : "itunescloudd/1.0 iOS/17.4.1 model/iPhone14,5 hwp/t8110 build/21E236 (6; dt:253)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Track Identifier" : 182858018,
+    "Last Played Date" : "2024-07-09T02:47:24Z"
+  } ]
+},{
+  "Transaction Type" : "addItems",
+  "Transaction Identifier" : 20000125,
+  "Transaction Date" : "2024-09-22T16:54:32Z",
+  "UserAgent" : "Music/1.4.6 (Macintosh; OS X 14.6.1) AppleWebKit/618.3.11.11.5 build/32 (dt:1)",
+  "Country" : "CHN",
+  "Language" : "zh-cn",
+  "Tracks" : [ {
+    "Content Type" : "Song",
+    "Track Identifier" : 182858282,
+    "Title" : "苏州河+慕容雪(1)",
+    "Is Part of Compilation" : false,
+    "Track Year" : 2024,
+    "Track Number On Album" : 0,
+    "Track Count On Album" : 0,
+    "Disc Number Of Album" : 0,
+    "Disc Count Of Album" : 0,
+    "Track Duration" : 240535,
+    "Track Play Count" : 38,
+    "Date Added To Library" : "2024-07-05T01:28:03Z",
+    "Date Added To iCloud Music Library" : "2024-09-22T16:54:32Z",
+    "Last Modified Date" : "2024-07-03T10:41:26Z",
+    "Last Played Date" : "2024-07-05T20:48:09Z",
+    "Rating" : 0,
+    "Album Rating" : 0,
+    "Skip Count" : 2,
+    "Audio File Extension" : "mp3",
+    "Remember Playback Position" : false,
+    "Album Rating Method" : "Calculated",
+    "Is Checked" : false,
+    "Playlist Only Track" : false,
+    "Display Work Name" : false
+  } ]
+}]
